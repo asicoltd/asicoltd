@@ -37,3 +37,5 @@ void main(){
 	}
 ```
 [![My Random Quote Collection](https://img.shields.io/static/v1?label=Check_My&message=Quote_Collection&color=%3Cblueviolet%3E)](https://asicoltd.github.io/asicoltd/quotes) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asicoltd)](https://github.com/asicoltd/github-readme-stats)
