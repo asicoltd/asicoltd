@@ -4,7 +4,7 @@
 
 
 ```c++
-// Code running inside clint brain
+// Code running inside client brain
 void main(){
 	chargeSystem();
 	if(newUpdateAvailable()){
